@@ -48,3 +48,5 @@ jobs:
             --allowedTools "Bash(bun install),Bash(bun test:*),Bash(bun run format),Bash(bun typecheck)"
             --model "claude-opus-4-7"
             --permission-mode auto
+ig-reel 
+mkdir -p ~/.claude/skills/summarize-changes
